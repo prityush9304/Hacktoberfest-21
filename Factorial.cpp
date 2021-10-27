@@ -11,6 +11,6 @@ int main(){
     {
         ans *= i;
     }
-    cout<<n<<"! = "<<ans<<endl;
+    cout<<"Res"<<n<<"! = "<<ans<<endl;
     return 0;
 }
