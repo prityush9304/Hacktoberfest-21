@@ -7,6 +7,8 @@ int main() {
 	stack.push(22);
 	stack.push(24);
 	stack.push(25);
+	stack.push(35);
+	
 	
 		stack.pop();
 	stack.pop();
